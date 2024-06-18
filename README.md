@@ -1,6 +1,12 @@
 # Ferreteria
 
+Aplicativo tomado de: https://github.com/CarlosOlivo/Ferreteria
+
 Control de inventario de una ferreteria en Java.
+
+![image](https://github.com/bemejia/ModernizacionSftw/assets/39011208/3e3f0305-410d-4238-bac7-793b92449ec0)
+![image](https://github.com/bemejia/ModernizacionSftw/assets/39011208/9d9f0a2d-f983-4fd6-b80e-30574c7628b0)
+
 
 ## Usuarios del sistema
 Rol | Usuario | Contraseña
