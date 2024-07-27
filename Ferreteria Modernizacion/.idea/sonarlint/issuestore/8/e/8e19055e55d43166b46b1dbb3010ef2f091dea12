@@ -1,0 +1,16 @@
+
+™	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ù™ëÿÿÿÿÿ8œ¬‹Ÿ2J$05688f00-03e2-46ad-805c-7f4c29d7d0c5
+™	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä÷£¬øÿÿÿÿ8¬‹Ÿ2J$791903c1-a671-4634-a037-357bb51876e9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıéÛÌüÿÿÿÿ8 ¬‹Ÿ2J$79815157-1956-4cee-be86-7c4e70fba99c
+‹
+java:S1659."CDeclare "nombre" and all following declarations on a separate line.(©ÊşÕÿÿÿÿÿ8î¬‹Ÿ2J$76506466-09fe-4ac7-868a-e79ebfe08895
+‚
+java:S1611†"9Remove the parentheses around the "ActionEvent" parameter(¦Ù™ëÿÿÿÿÿ8…­‹Ÿ2J$8111c60e-5f18-4d59-8fb3-3213decf91e5
+u
+java:S1602†",Remove useless curly braces around statement(¦Ù™ëÿÿÿÿÿ8†­‹Ÿ2J$c1b95302-0668-4966-a653-8af76cd32738
+‚
+java:S1611Œ"9Remove the parentheses around the "ActionEvent" parameter(Ä÷£¬øÿÿÿÿ8‡­‹Ÿ2J$df9098f6-9111-47c9-9201-865485011632
+u
+java:S1602Œ",Remove useless curly braces around statement(Ä÷£¬øÿÿÿÿ8‡­‹Ÿ2J$fac95268-f81c-4977-8edc-3c2bc9cccd00
+ˆ
+java:S1128"@Remove this unused import 'ferreteria.Persistencia.ProductoDAO'.(¿ø±ıÿÿÿÿÿ8ÕˆœŸ2J$1d81303d-ca95-4d46-9c8a-13b724abab2f

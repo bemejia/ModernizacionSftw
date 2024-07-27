@@ -1,0 +1,6 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÂÒ–ûÿÿÿÿJ$e762f49e-8aa9-41bf-9b41-0fb037b5afba
+Y
+java:S1128"7Remove this unused import 'ferreteria.Modelo.Producto'.(Í¤¹¡ÿÿÿÿÿ8Ô—ÿ 2
+f
+java:S1128"IRemove this unused import 'ferreteria.Persistencia.Producto.ProductoDAO'.(ø°¸ù8Ô—ÿ 2

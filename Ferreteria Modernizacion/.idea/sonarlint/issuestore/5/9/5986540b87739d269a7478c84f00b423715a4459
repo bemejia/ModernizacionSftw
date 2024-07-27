@@ -1,0 +1,7 @@
+
+á
+java:S1598"¾This file "ConexionDB.java" should be located in "ferreteria\Persistencia" directory, not in "D:\Maestria\ModernizaciÃ³n\ModernizacionSftw\Ferreteria Modernizacion\src\main\java\ferreteria".(ÅÃÄœøÿÿÿÿ8³™¾•2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÃÄœøÿÿÿÿ8´™¾•2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(›£­¼8À™¾•2
+G	java:S106"+Replace this use of System.err by a logger.(áÈ€˜8Î™¾•2

@@ -1,0 +1,11 @@
+
+J
+java:S1066^"/Merge this if statement with the enclosing one.(’¿òıÿÿÿÿ
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö·î®ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıéÛÌüÿÿÿÿ
+h
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ËÅÍÉ
+T
+java:S1611Y"9Remove the parentheses around the "ActionEvent" parameter(ö·î®ıÿÿÿÿ
+B
+java:S1602a",Remove useless curly braces around statement(ÃÉş©

@@ -1,0 +1,14 @@
+
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ù™ëÿÿÿÿÿ
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä÷£¬øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ýéÛÌüÿÿÿÿ
+^
+java:S1659,"CDeclare "nombre" and all following declarations on a separate line.(©ÊþÕÿÿÿÿÿ
+U
+java:S1611ƒ"9Remove the parentheses around the "ActionEvent" parameter(¦Ù™ëÿÿÿÿÿ
+H
+java:S1602ƒ",Remove useless curly braces around statement(¦Ù™ëÿÿÿÿÿ
+U
+java:S1611‰"9Remove the parentheses around the "ActionEvent" parameter(Ä÷£¬øÿÿÿÿ
+H
+java:S1602‰",Remove useless curly braces around statement(Ä÷£¬øÿÿÿÿ

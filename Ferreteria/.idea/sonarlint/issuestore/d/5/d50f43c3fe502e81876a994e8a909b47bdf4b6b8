@@ -1,0 +1,11 @@
+
+]
+java:S1192C"HDefine a constant instead of duplicating this literal "ERROR: " 4 times.(£öñF
+Z
+java:S2147D"DCombine this catch with the one at line 66, which has the same body.(ï­£Ä
+?	java:S106C"+Replace this use of System.err by a logger.(£öñF
+?	java:S106E"+Replace this use of System.err by a logger.(£öñF
+_
+java:S2147Y"DCombine this catch with the one at line 87, which has the same body.(ú×Þ³ùÿÿÿÿ
+?	java:S106X"+Replace this use of System.err by a logger.(£öñF
+?	java:S106Z"+Replace this use of System.err by a logger.(£öñF

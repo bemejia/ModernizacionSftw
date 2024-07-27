@@ -1,0 +1,13 @@
+ferreteria\Persistencia\Producto\ProductoRepositorio.class
+ferreteria\Vista\MenuPrincipal.class
+ferreteria\Util.class
+ferreteria\Modelo\Producto.class
+ferreteria\Persistencia\Producto\ProductoDAO.class
+ferreteria\Modelo\Venta.class
+ferreteria\Archivo.class
+ferreteria\Persistencia\Venta\VentaRepositorio.class
+ferreteria\Persistencia\Venta\VentaDAO.class
+ferreteria\Vista\EditarProducto.class
+ferreteria\Ferreteria.class
+ferreteria\Vista\Login.class
+ferreteria\Persistencia\ConexionBD.class
